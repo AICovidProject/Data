@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95934,2021-03-26,Atlantic,New Jersey,34001,27622,604
 95935,2021-03-26,Bergen,New Jersey,34003,88904,2711
 95936,2021-03-26,Burlington,New Jersey,34005,38946,785

@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95640,2021-03-26,Adair,Missouri,29001,2390,20
 95641,2021-03-26,Andrew,Missouri,29003,1862,18
 95642,2021-03-26,Atchison,Missouri,29005,439,6

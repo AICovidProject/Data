@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95907,2021-03-26,Churchill,Nevada,32001,1954,49
 95908,2021-03-26,Clark,Nevada,32003,233671,4088
 95909,2021-03-26,Douglas,Nevada,32005,2657,35

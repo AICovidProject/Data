@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96147,2021-03-26,Adams,North Dakota,38001,267,3
 96148,2021-03-26,Barnes,North Dakota,38003,1319,31
 96149,2021-03-26,Benson,North Dakota,38005,1035,18

@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95264,2021-03-26,Acadia,Louisiana,22001,6260,188
 95265,2021-03-26,Allen,Louisiana,22003,3081,91
 95266,2021-03-26,Ascension,Louisiana,22005,11480,158

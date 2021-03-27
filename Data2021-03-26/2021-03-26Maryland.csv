@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95346,2021-03-26,Allegany,Maryland,24001,6479,202
 95347,2021-03-26,Anne Arundel,Maryland,24003,38322,562
 95348,2021-03-26,Baltimore,Maryland,24005,54774,1358

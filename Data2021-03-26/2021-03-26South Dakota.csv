@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96604,2021-03-26,Aurora,South Dakota,46003,457,15
 96605,2021-03-26,Beadle,South Dakota,46005,2852,40
 96606,2021-03-26,Bennett,South Dakota,46007,386,9

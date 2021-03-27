@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96670,2021-03-26,Anderson,Tennessee,47001,8413,161
 96671,2021-03-26,Bedford,Tennessee,47003,6163,124
 96672,2021-03-26,Benton,Tennessee,47005,1561,39

@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94451,2021-03-26,Fairfield,Connecticut,09001,87890,2106
 94452,2021-03-26,Hartford,Connecticut,09003,74654,2341
 94453,2021-03-26,Litchfield,Connecticut,09005,12518,282

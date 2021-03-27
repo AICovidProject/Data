@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94699,2021-03-26,Ada,Idaho,16001,48816,448
 94700,2021-03-26,Adams,Idaho,16003,336,4
 94701,2021-03-26,Bannock,Idaho,16005,8326,98

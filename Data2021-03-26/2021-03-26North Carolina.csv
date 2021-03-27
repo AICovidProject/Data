@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96047,2021-03-26,Alamance,North Carolina,37001,16638,239
 96048,2021-03-26,Alexander,North Carolina,37003,4080,82
 96049,2021-03-26,Alleghany,North Carolina,37005,939,5

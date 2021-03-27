@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94238,2021-03-26,Apache,Arizona,04001,10790,413
 94239,2021-03-26,Cochise,Arizona,04003,11546,277
 94240,2021-03-26,Coconino,Arizona,04005,16995,324

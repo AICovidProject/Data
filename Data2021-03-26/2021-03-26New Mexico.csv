@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95956,2021-03-26,Bernalillo,New Mexico,35001,54389,900
 95957,2021-03-26,Catron,New Mexico,35003,83,5
 95958,2021-03-26,Chaves,New Mexico,35005,8950,163

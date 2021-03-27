@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 97368,2021-03-26,Albany,Wyoming,56001,3961,11
 97369,2021-03-26,Big Horn,Wyoming,56003,1109,32
 97370,2021-03-26,Campbell,Wyoming,56005,4733,59

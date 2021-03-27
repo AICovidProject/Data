@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96766,2021-03-26,Anderson,Texas,48001,6094,112
 96767,2021-03-26,Andrews,Texas,48003,1739,47
 96768,2021-03-26,Angelina,Texas,48005,8164,268

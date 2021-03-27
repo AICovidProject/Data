@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96203,2021-03-26,Adams,Ohio,39001,2231,47
 96204,2021-03-26,Allen,Ohio,39003,10989,225
 96205,2021-03-26,Ashland,Ohio,39005,3988,86

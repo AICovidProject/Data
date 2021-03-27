@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94210,2021-03-26,Aleutians East Borough,Alaska,02013,363,2
 94211,2021-03-26,Aleutians West Census Area,Alaska,02016,650,0
 94212,2021-03-26,Anchorage,Alaska,02020,27915,161

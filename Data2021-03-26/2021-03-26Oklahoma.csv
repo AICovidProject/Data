@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96292,2021-03-26,Adair,Oklahoma,40001,3151,26
 96293,2021-03-26,Alfalfa,Oklahoma,40003,1151,5
 96294,2021-03-26,Atoka,Oklahoma,40005,1838,15

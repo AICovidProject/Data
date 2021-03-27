@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94533,2021-03-26,Appling,Georgia,13001,2255,68
 94534,2021-03-26,Atkinson,Georgia,13003,990,17
 94535,2021-03-26,Bacon,Georgia,13005,1602,36

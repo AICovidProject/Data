@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96406,2021-03-26,Adams,Pennsylvania,42001,7922,158
 96407,2021-03-26,Allegheny,Pennsylvania,42003,83811,1797
 96408,2021-03-26,Armstrong,Pennsylvania,42005,5108,119

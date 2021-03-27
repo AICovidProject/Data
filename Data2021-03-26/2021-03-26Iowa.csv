@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94938,2021-03-26,Adair,Iowa,19001,836,31
 94939,2021-03-26,Adams,Iowa,19003,319,4
 94940,2021-03-26,Allamakee,Iowa,19005,1482,49

@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95038,2021-03-26,Allen,Kansas,20001,1206,1
 95039,2021-03-26,Anderson,Kansas,20003,829,0
 95040,2021-03-26,Atchison,Kansas,20005,1552,13

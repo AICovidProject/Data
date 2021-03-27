@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95813,2021-03-26,Adams,Nebraska,31001,2787,38
 95814,2021-03-26,Antelope,Nebraska,31003,486,6
 95815,2021-03-26,Arthur,Nebraska,31005,22,1

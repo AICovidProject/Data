@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 96558,2021-03-26,Abbeville,South Carolina,45001,2406,37
 96559,2021-03-26,Aiken,South Carolina,45003,16418,215
 96560,2021-03-26,Allendale,South Carolina,45005,888,15

@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95144,2021-03-26,Adair,Kentucky,21001,1769,53
 95145,2021-03-26,Allen,Kentucky,21003,1902,32
 95146,2021-03-26,Anderson,Kentucky,21005,1681,17

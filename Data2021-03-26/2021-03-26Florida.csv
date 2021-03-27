@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94465,2021-03-26,Alachua,Florida,12001,23192,255
 94466,2021-03-26,Baker,Florida,12003,3348,59
 94467,2021-03-26,Bay,Florida,12005,19456,375

@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95371,2021-03-26,Barnstable,Massachusetts,25001,11676,438
 95372,2021-03-26,Berkshire,Massachusetts,25003,5342,271
 95373,2021-03-26,Bristol,Massachusetts,25005,58992,1623

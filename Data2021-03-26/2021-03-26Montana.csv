@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95757,2021-03-26,Beaverhead,Montana,30001,891,8
 95758,2021-03-26,Big Horn,Montana,30003,2456,71
 95759,2021-03-26,Blaine,Montana,30005,729,24

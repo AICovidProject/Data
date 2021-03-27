@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95329,2021-03-26,Androscoggin,Maine,23001,5188,58
 95330,2021-03-26,Aroostook,Maine,23003,1380,44
 95331,2021-03-26,Cumberland,Maine,23005,13728,185

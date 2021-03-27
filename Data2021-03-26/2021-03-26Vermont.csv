@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 97050,2021-03-26,Addison,Vermont,50001,892,8
 97051,2021-03-26,Bennington,Vermont,50003,1646,10
 97052,2021-03-26,Caledonia,Vermont,50005,633,5

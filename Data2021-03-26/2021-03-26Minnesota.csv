@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95470,2021-03-26,Aitkin,Minnesota,27001,1207,36
 95471,2021-03-26,Anoka,Minnesota,27003,35010,405
 95472,2021-03-26,Becker,Minnesota,27005,3252,48

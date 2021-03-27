@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94846,2021-03-26,Adams,Indiana,18001,3379,52
 94847,2021-03-26,Allen,Indiana,18003,37492,681
 94848,2021-03-26,Bartholomew,Indiana,18005,7681,156

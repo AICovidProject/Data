@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 97202,2021-03-26,Adams,Washington,53001,1982,22
 97203,2021-03-26,Asotin,Washington,53003,1328,28
 97204,2021-03-26,Benton,Washington,53005,15568,210

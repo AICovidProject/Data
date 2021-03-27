@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95923,2021-03-26,Belknap,New Hampshire,33001,3306,94
 95924,2021-03-26,Carroll,New Hampshire,33003,1907,7
 95925,2021-03-26,Cheshire,New Hampshire,33005,3075,31

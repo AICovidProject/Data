@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94253,2021-03-26,Arkansas,Arkansas,05001,2071,36
 94254,2021-03-26,Ashley,Arkansas,05003,1894,33
 94255,2021-03-26,Baxter,Arkansas,05005,3054,99

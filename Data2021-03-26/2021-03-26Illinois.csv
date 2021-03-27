@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94743,2021-03-26,Adams,Illinois,17001,8073,144
 94744,2021-03-26,Alexander,Illinois,17003,456,10
 94745,2021-03-26,Bond,Illinois,17005,1927,30

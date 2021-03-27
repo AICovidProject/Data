@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94329,2021-03-26,Alameda,California,06001,82966,1395
 94330,2021-03-26,Alpine,California,06003,84,0
 94331,2021-03-26,Amador,California,06005,3529,45
@@ -47,7 +47,7 @@
 94374,2021-03-26,Sierra,California,06091,50,0
 94375,2021-03-26,Siskiyou,California,06093,1870,15
 94376,2021-03-26,Solano,California,06095,31014,193
-94377,2021-03-26,Sonoma,California,06097,29090,310
+94377,2021-03-26,Sonoma,California,06097,29122,310
 94378,2021-03-26,Stanislaus,California,06099,58602,992
 94379,2021-03-26,Sutter,California,06101,9110,104
 94380,2021-03-26,Tehama,California,06103,4719,52

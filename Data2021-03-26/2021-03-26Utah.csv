@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 97020,2021-03-26,Beaver,Utah,49001,746,6
 97021,2021-03-26,Box Elder,Utah,49003,5029,47
 97022,2021-03-26,Cache,Utah,49005,15441,43

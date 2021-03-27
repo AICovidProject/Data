@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 94143,2021-03-26,Autauga,Alabama,01001,6543,99
 94144,2021-03-26,Baldwin,Alabama,01003,20423,301
 94145,2021-03-26,Barbour,Alabama,01005,2221,54

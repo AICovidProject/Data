@@ -1,4 +1,4 @@
-,0,1,2,3,4,5
+,date,county,state,fips,cases,deaths
 95989,2021-03-26,Albany,New York,36001,22276,339
 95990,2021-03-26,Allegany,New York,36003,3000,82
 95991,2021-03-26,Broome,New York,36007,16341,342
