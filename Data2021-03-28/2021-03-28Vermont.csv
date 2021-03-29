@@ -1,0 +1,16 @@
+,date,county,state,fips,cases,deaths
+97057,2021-03-28,Addison,Vermont,50001,901,8
+97058,2021-03-28,Bennington,Vermont,50003,1665,10
+97059,2021-03-28,Caledonia,Vermont,50005,663,5
+97060,2021-03-28,Chittenden,Vermont,50007,5963,96
+97061,2021-03-28,Essex,Vermont,50009,209,1
+97062,2021-03-28,Franklin,Vermont,50011,1656,37
+97063,2021-03-28,Grand Isle,Vermont,50013,169,2
+97064,2021-03-28,Lamoille,Vermont,50015,679,2
+97065,2021-03-28,Orange,Vermont,50017,546,3
+97066,2021-03-28,Orleans,Vermont,50019,860,7
+97067,2021-03-28,Rutland,Vermont,50021,1657,14
+97069,2021-03-28,Washington,Vermont,50023,1587,14
+97070,2021-03-28,Windham,Vermont,50025,1086,14
+97071,2021-03-28,Windsor,Vermont,50027,1168,12
+97068,2021-03-28,Unknown,Vermont,,11,0

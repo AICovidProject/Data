@@ -1,0 +1,5 @@
+,date,county,state,fips,cases,deaths
+94466,2021-03-28,Kent,Delaware,10001,15393,322
+94467,2021-03-28,New Castle,Delaware,10003,54815,767
+94468,2021-03-28,Sussex,Delaware,10005,23651,455
+94469,2021-03-28,Unknown,Delaware,,203,0

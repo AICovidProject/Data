@@ -1,0 +1,10 @@
+,date,county,state,fips,cases,deaths
+94457,2021-03-28,Fairfield,Connecticut,09001,87890,2106
+94458,2021-03-28,Hartford,Connecticut,09003,74654,2341
+94459,2021-03-28,Litchfield,Connecticut,09005,12518,282
+94460,2021-03-28,Middlesex,Connecticut,09007,11364,350
+94461,2021-03-28,New Haven,Connecticut,09009,79060,1992
+94462,2021-03-28,New London,Connecticut,09011,20412,420
+94463,2021-03-28,Tolland,Connecticut,09013,8457,176
+94465,2021-03-28,Windham,Connecticut,09015,9782,187
+94464,2021-03-28,Unknown,Connecticut,,1073,11
