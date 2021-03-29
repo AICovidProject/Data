@@ -1,0 +1,6 @@
+,date,county,state,fips,cases,deaths,2021-03-21_Cases_Num,2021-03-21_Deaths_Num,diff_From_2021-03-21_Cases_Num,diff_From_2021-03-21_Deaths_Num
+94700,2021-03-28,Hawaii,Hawaii,15001,2485,53,2414,53,71,0
+94701,2021-03-28,Honolulu,Hawaii,15003,23324,365,22924,361,400,4
+94702,2021-03-28,Kalawao,Hawaii,15005,1,0,1,0,0,0
+94703,2021-03-28,Kauai,Hawaii,15007,192,1,188,1,4,0
+94704,2021-03-28,Maui,Hawaii,15009,3526,40,3307,36,219,4
