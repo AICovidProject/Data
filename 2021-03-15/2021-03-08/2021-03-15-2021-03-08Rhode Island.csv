@@ -1,6 +1,0 @@
-,date,county,state,fips,cases,deaths,2021-03-08_Cases_Num,2021-03-08_Deaths_Num,diff_From_2021-03-08_Cases_Num,diff_From_2021-03-08_Deaths_Num
-54347,2021-03-15,Bristol,Rhode Island,44001,4320,138,4247,134,73,4
-54348,2021-03-15,Kent,Rhode Island,44003,15760,336,15508,326,252,10
-54349,2021-03-15,Newport,Rhode Island,44005,5347,38,5215,36,132,2
-54350,2021-03-15,Providence,Rhode Island,44007,84529,1862,83108,1846,1421,16
-54352,2021-03-15,Washington,Rhode Island,44009,8141,160,7867,160,274,0
