@@ -1,0 +1,11 @@
+,date,county,state,fips,cases,deaths,2021-03-08_Cases_Num,2021-03-08_Deaths_Num,diff_From_2021-03-08_Cases_Num,diff_From_2021-03-08_Deaths_Num
+53718,2021-03-15,Belknap,New Hampshire,33001,3219,94,3174,93,45,1
+53719,2021-03-15,Carroll,New Hampshire,33003,1823,7,1775,6,48,1
+53720,2021-03-15,Cheshire,New Hampshire,33005,2911,27,2809,27,102,0
+53721,2021-03-15,Coos,New Hampshire,33007,1409,36,1363,36,46,0
+53722,2021-03-15,Grafton,New Hampshire,33009,2878,19,2786,19,92,0
+53723,2021-03-15,Hillsborough,New Hampshire,33011,29574,590,29030,583,544,7
+53724,2021-03-15,Merrimack,New Hampshire,33013,7799,107,7596,107,203,0
+53725,2021-03-15,Rockingham,New Hampshire,33015,19357,216,18879,211,478,5
+53726,2021-03-15,Strafford,New Hampshire,33017,7400,76,7237,76,163,0
+53727,2021-03-15,Sullivan,New Hampshire,33019,1379,22,1362,21,17,1
