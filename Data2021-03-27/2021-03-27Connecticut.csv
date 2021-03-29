@@ -1,10 +1,10 @@
-,date,county,state,fips,cases,deaths
-91209,2021-03-27,Fairfield,Connecticut,09001,87890,2106
-91210,2021-03-27,Hartford,Connecticut,09003,74654,2341
-91211,2021-03-27,Litchfield,Connecticut,09005,12518,282
-91212,2021-03-27,Middlesex,Connecticut,09007,11364,350
-91213,2021-03-27,New Haven,Connecticut,09009,79060,1992
-91214,2021-03-27,New London,Connecticut,09011,20412,420
-91215,2021-03-27,Tolland,Connecticut,09013,8457,176
-91217,2021-03-27,Windham,Connecticut,09015,9782,187
-91216,2021-03-27,Unknown,Connecticut,,1073,11
+,date,county,state,fips,cases,yest,diff
+91209,2021-03-27,Fairfield,Connecticut,09001,87890,87890,0
+91210,2021-03-27,Hartford,Connecticut,09003,74654,74654,0
+91211,2021-03-27,Litchfield,Connecticut,09005,12518,12518,0
+91212,2021-03-27,Middlesex,Connecticut,09007,11364,11364,0
+91213,2021-03-27,New Haven,Connecticut,09009,79060,79060,0
+91214,2021-03-27,New London,Connecticut,09011,20412,20412,0
+91215,2021-03-27,Tolland,Connecticut,09013,8457,8457,0
+91217,2021-03-27,Windham,Connecticut,09015,9782,9782,0
+91216,2021-03-27,Unknown,Connecticut,,1073,1073,0

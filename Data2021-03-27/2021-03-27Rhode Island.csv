@@ -1,7 +1,7 @@
-,date,county,state,fips,cases,deaths
-93311,2021-03-27,Bristol,Rhode Island,44001,4492,140
-93312,2021-03-27,Kent,Rhode Island,44003,16330,344
-93313,2021-03-27,Newport,Rhode Island,44005,5625,40
-93314,2021-03-27,Providence,Rhode Island,44007,87520,1902
-93316,2021-03-27,Washington,Rhode Island,44009,8899,164
-93315,2021-03-27,Unknown,Rhode Island,,12909,18
+,date,county,state,fips,cases,yest,diff
+93311,2021-03-27,Bristol,Rhode Island,44001,4492,4492,0
+93312,2021-03-27,Kent,Rhode Island,44003,16330,16330,0
+93313,2021-03-27,Newport,Rhode Island,44005,5625,5625,0
+93314,2021-03-27,Providence,Rhode Island,44007,87520,87520,0
+93316,2021-03-27,Washington,Rhode Island,44009,8899,8899,0
+93315,2021-03-27,Unknown,Rhode Island,,12909,12909,0
