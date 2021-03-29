@@ -1,2 +1,2 @@
-,date,county,state,fips,cases,deaths
-91446,2021-03-25,Unknown,Guam,,8763,135
+,date,county,state,fips,cases,yest,diff
+84956,2021-03-25,Unknown,Guam,,8763,8758,5

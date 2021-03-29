@@ -1,12 +1,12 @@
-,date,county,state,fips,cases,deaths
-92676,2021-03-25,Belknap,New Hampshire,33001,3295,94
-92677,2021-03-25,Carroll,New Hampshire,33003,1900,7
-92678,2021-03-25,Cheshire,New Hampshire,33005,3073,30
-92679,2021-03-25,Coos,New Hampshire,33007,1455,38
-92680,2021-03-25,Grafton,New Hampshire,33009,3002,20
-92681,2021-03-25,Hillsborough,New Hampshire,33011,30633,603
-92682,2021-03-25,Merrimack,New Hampshire,33013,8046,110
-92683,2021-03-25,Rockingham,New Hampshire,33015,20297,224
-92684,2021-03-25,Strafford,New Hampshire,33017,7798,76
-92685,2021-03-25,Sullivan,New Hampshire,33019,1416,22
-92686,2021-03-25,Unknown,New Hampshire,,1124,5
+,date,county,state,fips,cases,yest,diff
+86186,2021-03-25,Belknap,New Hampshire,33001,3295,3286,9
+86187,2021-03-25,Carroll,New Hampshire,33003,1900,1886,14
+86188,2021-03-25,Cheshire,New Hampshire,33005,3073,3035,38
+86189,2021-03-25,Coos,New Hampshire,33007,1455,1451,4
+86190,2021-03-25,Grafton,New Hampshire,33009,3002,2985,17
+86191,2021-03-25,Hillsborough,New Hampshire,33011,30633,30438,195
+86192,2021-03-25,Merrimack,New Hampshire,33013,8046,8016,30
+86193,2021-03-25,Rockingham,New Hampshire,33015,20297,20167,130
+86194,2021-03-25,Strafford,New Hampshire,33017,7798,7714,84
+86195,2021-03-25,Sullivan,New Hampshire,33019,1416,1414,2
+86196,2021-03-25,Unknown,New Hampshire,,1124,1129,-5
