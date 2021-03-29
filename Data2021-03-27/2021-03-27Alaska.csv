@@ -1,0 +1,29 @@
+,date,county,state,fips,cases,deaths
+90968,2021-03-27,Aleutians East Borough,Alaska,02013,363,2
+90969,2021-03-27,Aleutians West Census Area,Alaska,02016,650,0
+90970,2021-03-27,Anchorage,Alaska,02020,27915,161
+90971,2021-03-27,Bethel Census Area,Alaska,02050,3750,20
+90973,2021-03-27,Denali Borough,Alaska,02068,85,0
+90974,2021-03-27,Dillingham Census Area,Alaska,02070,207,1
+90975,2021-03-27,Fairbanks North Star Borough,Alaska,02090,6497,32
+90976,2021-03-27,Haines Borough,Alaska,02100,26,0
+90977,2021-03-27,Juneau City and Borough,Alaska,02110,1257,3
+90978,2021-03-27,Kenai Peninsula Borough,Alaska,02122,4070,19
+90979,2021-03-27,Ketchikan Gateway Borough,Alaska,02130,372,1
+90980,2021-03-27,Kodiak Island Borough,Alaska,02150,1065,5
+90981,2021-03-27,Kusilvak Census Area,Alaska,02158,1218,3
+90982,2021-03-27,Matanuska-Susitna Borough,Alaska,02170,9719,35
+90983,2021-03-27,Nome Census Area,Alaska,02180,335,0
+90984,2021-03-27,North Slope Borough,Alaska,02185,1030,4
+90985,2021-03-27,Northwest Arctic Borough,Alaska,02188,596,2
+90986,2021-03-27,Petersburg Borough,Alaska,02195,145,0
+90987,2021-03-27,Prince of Wales-Hyder Census Area,Alaska,02198,77,1
+90988,2021-03-27,Sitka City and Borough,Alaska,02220,319,0
+90989,2021-03-27,Skagway Municipality,Alaska,02230,19,0
+90990,2021-03-27,Southeast Fairbanks Census Area,Alaska,02240,596,3
+90992,2021-03-27,Valdez-Cordova Census Area,Alaska,02261,536,2
+90993,2021-03-27,Wrangell City and Borough,Alaska,02275,30,0
+90995,2021-03-27,Yukon-Koyukuk Census Area,Alaska,02290,348,4
+90972,2021-03-27,Bristol Bay plus Lake and Peninsula,Alaska,02997,184,0
+90994,2021-03-27,Yakutat plus Hoonah-Angoon,Alaska,02998,69,1
+90991,2021-03-27,Unknown,Alaska,,266,0

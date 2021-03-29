@@ -1,0 +1,16 @@
+,date,county,state,fips,cases,deaths
+93809,2021-03-27,Addison,Vermont,50001,896,8
+93810,2021-03-27,Bennington,Vermont,50003,1651,10
+93811,2021-03-27,Caledonia,Vermont,50005,638,5
+93812,2021-03-27,Chittenden,Vermont,50007,5906,95
+93813,2021-03-27,Essex,Vermont,50009,207,1
+93814,2021-03-27,Franklin,Vermont,50011,1647,37
+93815,2021-03-27,Grand Isle,Vermont,50013,164,2
+93816,2021-03-27,Lamoille,Vermont,50015,672,2
+93817,2021-03-27,Orange,Vermont,50017,545,3
+93818,2021-03-27,Orleans,Vermont,50019,839,7
+93819,2021-03-27,Rutland,Vermont,50021,1632,14
+93821,2021-03-27,Washington,Vermont,50023,1577,14
+93822,2021-03-27,Windham,Vermont,50025,1074,14
+93823,2021-03-27,Windsor,Vermont,50027,1163,12
+93820,2021-03-27,Unknown,Vermont,,12,0
