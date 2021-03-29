@@ -1,0 +1,6 @@
+,date,county,state,fips,cases,deaths,2021-03-15_Cases_Num,2021-03-15_Deaths_Num,diff_From_2021-03-15_Cases_Num,diff_From_2021-03-15_Deaths_Num
+75216,2021-03-22,Hawaii,Hawaii,15001,2423,53,2372,53,51,0
+75217,2021-03-22,Honolulu,Hawaii,15003,22971,361,22636,359,335,2
+75218,2021-03-22,Kalawao,Hawaii,15005,1,0,1,0,0,0
+75219,2021-03-22,Kauai,Hawaii,15007,189,1,188,1,1,0
+75220,2021-03-22,Maui,Hawaii,15009,3328,36,3115,35,213,1

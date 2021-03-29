@@ -1,0 +1,6 @@
+,date,county,state,fips,cases,deaths,2021-03-15_Cases_Num,2021-03-15_Deaths_Num,diff_From_2021-03-15_Cases_Num,diff_From_2021-03-15_Deaths_Num
+77074,2021-03-22,Bristol,Rhode Island,44001,4404,139,4320,138,84,1
+77075,2021-03-22,Kent,Rhode Island,44003,16047,337,15760,336,287,1
+77076,2021-03-22,Newport,Rhode Island,44005,5471,39,5347,38,124,1
+77077,2021-03-22,Providence,Rhode Island,44007,86088,1882,84529,1862,1559,20
+77079,2021-03-22,Washington,Rhode Island,44009,8574,163,8141,160,433,3
