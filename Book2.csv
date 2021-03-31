@@ -1,5 +1,4 @@
-,0,1,3,4,5,6,7,8,9,10,11
-0,State,14-Day percent Change in Cases,14-Day Percent Change in positivity rate,Positivity Rate 7-Day Rolling Average,14-Day Percent change in current Hospitlizations,14-Day percent Change in Deaths,4-Day percent Change in tests,Daily Cases-Day Rolling Average,Current Hositializations -Day Rolling Average,Daily Deaths 7-Day Rolling Average),Date Stay at Home Order Lifted
+State,14-Day percent Change in Cases,14-Day Percent Change in positivity rate,Positivity Rate 7-Day Rolling Average,14-Day Percent change in current Hospitlizations,14-Day percent Change in Deaths,4-Day percent Change in tests,Daily Cases-Day Rolling Average,Current Hositializations -Day Rolling Average,Daily Deaths 7-Day Rolling Average),Date Stay at Home Order Lifted
 1,Alabama,6%,-4%,13.00%,21.00%,-1.00%,10.00%,774,11,667,4/30/2020
 2,Arizona,145%,53.00%,24.00%,75.00%,75.00%,60.00%,"3,047",35,"2,318",5/16/2020
 3,California,70%,29.00%,6.00%,21.00%,-11.00%,45.00%,"5,250",60,"5,454",Still in place
